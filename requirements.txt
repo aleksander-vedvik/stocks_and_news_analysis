@@ -1,0 +1,5 @@
+delta-spark==2.3.0
+numpy==1.24.3
+pyspark==3.3.1
+spark-nlp==4.4.0
+mrjob==0.7.4
