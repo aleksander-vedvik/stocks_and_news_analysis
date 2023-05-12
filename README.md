@@ -1,4 +1,4 @@
-# dat500-project
+# Stocks and news analysis
 
 ## Datasets
 Links to the datasets are added to [this folder in Onedrive](https://liveuis-my.sharepoint.com/:f:/g/personal/250607_uis_no/EmgpwiQR3VJBrQYtKx51PuYBX83CDBQH2iOFH-1nes_6BQ?e=QKhGfT). **Note**: You must access the folder with a UiS account.
